@@ -13,4 +13,4 @@ require (
 	golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1 // indirect
 )
 
-replace github.com/gin-gonic/gin v1.7.4 => github.com/long2ice/gin v1.7.2-0.20210925064857-6665ad834758
+replace github.com/gin-gonic/gin v1.7.4 => github.com/u81gv7zl-organization/gin v1.7.2-0.20210925064857-6665ad834758
